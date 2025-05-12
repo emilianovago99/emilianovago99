@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emiliano Valdez</h1>
 <h3 align="center">I'm a passionate developer with a strong interest in backend development and programming logic. I’m a fast learner, highly dedicated, and always ready to take on new challenges. I enjoy solving complex problems and building solid, efficient solutions that work at the core of systems. I'm constantly looking to improve my skills and grow as a developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilianovago99" alt="emilianovago99" /></a> </p>
-
 - 🔭 I’m currently working on [Salud Universitaria](https://github.com/AlfredooP/SaludUniversitaria)
 
 - 🌱 I’m currently learning **SPRING BOOT, PHP and JS**
