@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emilianovago99&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilianovago99&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
+
 
 ###
 
