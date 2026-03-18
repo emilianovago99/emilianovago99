@@ -71,3 +71,10 @@ PHP HTML CSS JS MARIADB
 HTML CSS PHP C++  
 
 ---
+
+### 🦁 [S.I.M.B.A](https://github.com/emilianovago99/S.I.M.B.A)
+> Proyecto Hackaton
+NixOS, Python, Raspberry Pi, Node, React 
+
+---
+
