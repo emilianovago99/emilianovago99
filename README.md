@@ -78,6 +78,6 @@ NixOS, Python, Raspberry Pi, Node, React
 
 ---
 
-### 🚨 [Predicta](https://github.com/emilianovago99/S.I.M.B.A)
+### 🚨 [Predicta](https://github.com/emilianovago99/Predicta)
 > Proyecto Hackaton
 Flutter, Python, FastApi, MariaDB, C++  
