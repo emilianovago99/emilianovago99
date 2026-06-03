@@ -2,10 +2,6 @@
 
 ###
 
-
-
-###
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzdmczQ4eXBqdjZiOHdibHhmajJ1ejJ3eWtpdmVxNXFreWh4emdqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5tiNlHkA1WdUh3jRDW/giphy.gif" width="100%" style="max-width: 600px;" />
 </div>
@@ -32,6 +28,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
 </div>
 
 ###
@@ -62,22 +72,22 @@
 
 ### 📘 [Salud Universitaria](https://github.com/emilianovago99/SaludUniversitaria)
 > Proyecto En Conjunto
-PHP HTML CSS JS MARIADB 
+PHP HTML CSS JS MariaDB 
  
 ---
 
 ### ⚒️ [MakeItWork](https://github.com/emilianovago99/MakeItWork)
 > Proyecto En Conjunto 
-HTML CSS PHP C++  
+HTML CSS JS PHP MariaDB OpenRouter API
 
 ---
 
 ### 🦁 [S.I.M.B.A](https://github.com/emilianovago99/S.I.M.B.A)
 > Proyecto Hackaton
-NixOS, Python, Raspberry Pi, Node, React 
+NixOS Python Raspberry Pi Node React 
 
 ---
 
 ### 🚨 [Predicta](https://github.com/emilianovago99/Predicta)
 > Proyecto Hackaton
-Flutter, Python, FastApi, MariaDB, C++  
+Flutter Python FastAPI MariaDB C++
